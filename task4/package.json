@@ -1,0 +1,11 @@
+{
+  "name": "task4",
+  "version": "1.0.0",
+  "description": "Tech Returners task4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lalitha <lalithadevi.segu@gmail.com> (http://guru99.com)",
+  "license": "ISC"
+}
